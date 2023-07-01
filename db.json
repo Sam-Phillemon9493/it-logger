@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed network card in server 007",
+      "message": "SYSTEM1100: changed wifi adapter",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z"
+      "tech": "John Doe",
+      "date": "2023-07-01T15:57:37.608Z",
+      "id": 1
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "SYSTEM007: Workstation is working again",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "tech": "James Mccovaoy",
+      "date": "2023-07-01T19:28:47.626Z"
     },
     {
-      "id": 3,
-      "message": "1122 wireless down",
+      "message": "SYSTEM1201:  graphics not working",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z"
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "date": "2023-07-01T17:31:16.705Z",
+      "id": 3
     }
   ],
   "techs": [
@@ -36,19 +29,14 @@
       "lastName": "Doe"
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
     },
     {
-      "firstName": "James",
-      "lastName": "Mccovaoy",
-      "id": 4
+      "firstName": "Jim ",
+      "lastName": "Parsons",
+      "id": 6
     }
   ]
 }
